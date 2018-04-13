@@ -1,0 +1,15 @@
+C:\Users\kkim38\source\repos\FluorProject_1\FluorProject_1\bin\Debug\FluorProject_1.exe.config
+C:\Users\kkim38\source\repos\FluorProject_1\FluorProject_1\bin\Debug\FluorProject_1.exe
+C:\Users\kkim38\source\repos\FluorProject_1\FluorProject_1\bin\Debug\FluorProject_1.pdb
+C:\Users\kkim38\source\repos\FluorProject_1\FluorProject_1\obj\Debug\FluorProject_1.csprojResolveAssemblyReference.cache
+C:\Users\kkim38\source\repos\FluorProject_1\FluorProject_1\obj\Debug\MainWindow.g.cs
+C:\Users\kkim38\source\repos\FluorProject_1\FluorProject_1\obj\Debug\App.g.cs
+C:\Users\kkim38\source\repos\FluorProject_1\FluorProject_1\obj\Debug\FluorProject_1_MarkupCompile.cache
+C:\Users\kkim38\source\repos\FluorProject_1\FluorProject_1\obj\Debug\FluorProject_1_MarkupCompile.lref
+C:\Users\kkim38\source\repos\FluorProject_1\FluorProject_1\obj\Debug\MainWindow.baml
+C:\Users\kkim38\source\repos\FluorProject_1\FluorProject_1\obj\Debug\FluorProject_1.g.resources
+C:\Users\kkim38\source\repos\FluorProject_1\FluorProject_1\obj\Debug\FluorProject_1.Properties.Resources.resources
+C:\Users\kkim38\source\repos\FluorProject_1\FluorProject_1\obj\Debug\FluorProject_1.csproj.GenerateResource.Cache
+C:\Users\kkim38\source\repos\FluorProject_1\FluorProject_1\obj\Debug\FluorProject_1.csproj.CoreCompileInputs.cache
+C:\Users\kkim38\source\repos\FluorProject_1\FluorProject_1\obj\Debug\FluorProject_1.exe
+C:\Users\kkim38\source\repos\FluorProject_1\FluorProject_1\obj\Debug\FluorProject_1.pdb
